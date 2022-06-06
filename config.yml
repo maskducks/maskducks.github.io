@@ -1,0 +1,21 @@
+
+baseURL: "https://maskduck.is-a.dev/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: MaskDuck
+paginate: 5
+theme: "PaperMod"
+
+
+params:
+  profileMode:
+    enabled: true
+    imageUrl: "https://maskduck.is-a.dev/avatar.jpg"
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    
+    socialIcons:
+      - name: "discord"
+        url: "https://discord.com/users/716134528409665586"
+      - name: "reddit"
+        url: "https://reddit.com/u/maskduck"
+      - name: "github"
+        url: "https://github.com/maskduck"
