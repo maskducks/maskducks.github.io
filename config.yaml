@@ -12,10 +12,10 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     
-    socialIcons:
-      - name: "discord"
-        url: "https://discord.com/users/716134528409665586"
-      - name: "reddit"
-        url: "https://reddit.com/u/maskduck"
-      - name: "github"
-        url: "https://github.com/maskduck"
+  socialIcons:
+    - name: "discord"
+      url: "https://discord.com/users/716134528409665586"
+    - name: "reddit"
+      url: "https://reddit.com/u/maskduck"
+    - name: "github"
+      url: "https://github.com/maskduck"
